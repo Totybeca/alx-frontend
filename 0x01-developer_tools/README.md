@@ -9,13 +9,13 @@ In this project, you will analyze this website https://dev-tools.alx-tools.com/
 
 Read or watch:
 
-- Chrome DevTools | Tools for Web Developers | Google Developers
-- Introduction | Down and Dirty with Chrome Developer Tools
-- Firefox Developer Tools | MDN
-- Dev Tips - Developer Tips by Umar Hansa
-- Get Started With Viewing And Changing CSS | Tools for Web Developers
-- Keeping it simple with the JavaScript console - LogRocket Blog
-- Inspect Network Activity - Chrome DevTools 101
+- https://developer.chrome.com/docs/devtools/
+- https://blittle.github.io/chrome-dev-tools/
+- https://firefox-source-docs.mozilla.org/devtools-user/index.html
+- https://umaar.com/dev-tips/
+- https://developer.chrome.com/docs/devtools/
+- https://blog.logrocket.com/keeping-it-simple-with-the-javascript-console/
+- https://www.youtube.com/watch?v=e1gAyQuIFQo&feature=youtu.be
 
 # Learning Objectives
 
