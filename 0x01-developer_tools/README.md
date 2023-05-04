@@ -1,6 +1,8 @@
 # 0x01. Developer tools
 
-image.png
+![image](https://user-images.githubusercontent.com/106770765/236097005-549101a2-2ffe-4639-8039-8bdba6e0fa93.png)
+
+
 In this project, you will analyze this website https://dev-tools.alx-tools.com/
 
 # Resources
