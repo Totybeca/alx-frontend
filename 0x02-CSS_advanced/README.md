@@ -8,9 +8,7 @@ For this project, we expect you to look at these concepts:
 https://intranet.alxswe.com/concepts/544
 https://intranet.alxswe.com/concepts/545
 
-[css](https://user-images.githubusercontent.com/106770765/237026285-fa16476c-ce7e-422e-98c4-31bbc38f7ab5.jpg)
 ![image](https://user-images.githubusercontent.com/106770765/237026839-eea51fe9-04c7-4762-820c-4d11f7382be7.png)
-
 
 # Resources!
 
