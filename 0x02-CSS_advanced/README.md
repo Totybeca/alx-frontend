@@ -42,10 +42,4 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - A README.md file, at the root of the folder of the project, is mandatory
 - Your code should be W3C compliant and validate with W3C-Validator
 # End goal of the project
-![image](https://user-images.githubusercontent.com/106770765/237036991-9133b5be-bfd7-4e9a-9d02-f3d1959e06ac.png)
-![image](https://user-images.githubusercontent.com/106770765/237037105-d67fd47a-d2ac-4b3b-81c3-c1cf425a7c69.png)
-![image](https://user-images.githubusercontent.com/106770765/237037208-accc3d96-8358-445d-8c10-d4cf8040c017.png)
-![image](https://user-images.githubusercontent.com/106770765/237037351-14d2d49e-9c43-402a-badd-e1f87c1bd618.png)
-![image](https://user-images.githubusercontent.com/106770765/237037377-09c122f5-155f-4941-aaf1-98514972267f.png)
-
-
+![image](https://user-images.githubusercontent.com/106770765/237038636-64c13b6e-21da-46e8-9f52-6e2eeb364c91.png)
