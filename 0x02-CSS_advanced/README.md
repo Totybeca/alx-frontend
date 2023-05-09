@@ -8,7 +8,8 @@ For this project, we expect you to look at these concepts:
 https://intranet.alxswe.com/concepts/544
 https://intranet.alxswe.com/concepts/545
 
-image.png
+![image](https://user-images.githubusercontent.com/106770765/237025401-d97a1cbe-dfc0-45f4-836b-3394e269371a.png)
+
 
 # Resources
 https://cssreference.io/
