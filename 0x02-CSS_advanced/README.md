@@ -8,10 +8,10 @@ For this project, we expect you to look at these concepts:
 https://intranet.alxswe.com/concepts/544
 https://intranet.alxswe.com/concepts/545
 
-![image](https://user-images.githubusercontent.com/106770765/237025401-d97a1cbe-dfc0-45f4-836b-3394e269371a.png)
+[css](https://user-images.githubusercontent.com/106770765/237026285-fa16476c-ce7e-422e-98c4-31bbc38f7ab5.jpg)
 
+# Resources!
 
-# Resources
 https://cssreference.io/
 https://caniuse.com/
 https://htmldog.com/references/css/properties/
